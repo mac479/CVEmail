@@ -1,0 +1,30 @@
+﻿<Window x:Class="CVFrontEnd.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CVFrontEnd"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="470" Width="800"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="White"/>
+                <GradientStop Color="#FF909292" Offset="1"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.ColumnSpan="2" Name="RecipientBox" TextWrapping="Wrap" Margin="208,85,208,325" Foreground="#FF1A1A1A" Text="Enter recipient here..." GotFocus="RecipientBox_GotFocus" LostFocus="RecipientBox_LostFocus"/>
+        <TextBox Grid.ColumnSpan="2" Name="SubjectBox" TextWrapping="Wrap" Text="Enter subject here..." Margin="208,115,208,295" GotFocus="SubjectBox_GotFocus" LostFocus="SubjectBox_LostFocus" />
+        <TextBox Grid.ColumnSpan="2" Name="MessageBox" TextWrapping="Wrap" Text="Enter your message here..." Margin="208,148,208,100" AcceptsReturn="True" GotFocus="MessageBox_GotFocus" LostFocus="MessageBox_LostFocus" />
+        <Button Content="Send Email" Name="SendButton" Grid.ColumnSpan="2" Margin="336,340,336,50" Click="Button_Click"/>
+        <Label x:Name="ErrorText" Content="" Grid.ColumnSpan="2" Margin="208,43,208,356" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="#FFF90000"/>
+        <Label x:Name="StatusText" Content="" Grid.ColumnSpan="2" Margin="208,409,208,10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="#FFF90000"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\bin\Debug\net8.0\CVEmailLib.deps.json
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\bin\Debug\net8.0\CVEmailLib.dll
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\bin\Debug\net8.0\CVEmailLib.pdb
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\obj\Debug\net8.0\CVEmailLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\obj\Debug\net8.0\CVEmailLib.AssemblyInfoInputs.cache
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\obj\Debug\net8.0\CVEmailLib.AssemblyInfo.cs
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\obj\Debug\net8.0\CVEmailLib.csproj.CoreCompileInputs.cache
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\obj\Debug\net8.0\CVEmailLib.dll
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\obj\Debug\net8.0\refint\CVEmailLib.dll
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\obj\Debug\net8.0\CVEmailLib.pdb
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\obj\Debug\net8.0\ref\CVEmailLib.dll
+C:\Users\Myles-PC\source\repos\CVEmail\CVEmailLib\bin\Debug\net8.0\CVEmailLib.dll.config

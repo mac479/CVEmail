@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1r1QsdEhceY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Myles-PC\\source\\repos\\CVEmail\\CVFrontEnd\\CVFrontEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Myles-PC\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\Myles-PC\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.1\\system.diagnostics.eventlog.8.0.1.nupkg.sha512",
+    "C:\\Users\\Myles-PC\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

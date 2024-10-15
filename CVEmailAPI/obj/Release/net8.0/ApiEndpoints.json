@@ -1,0 +1,29 @@
+[
+  {
+    "ContainingType": "CVEmailAPI.Controllers.CVEmailController",
+    "Method": "Post",
+    "RelativePath": "CVEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "CVEmailAPI.CVEmail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CVEmailAPI.CVEmail",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "SendEmail"
+  }
+]

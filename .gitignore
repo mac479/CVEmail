@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/emailLog.csv
+*.csv
+/CVEmailAPI/bin
+/CVEmailApp/bin
+/CVFrontEnd/bin
+/CVEmailLib/bin
+/.vs

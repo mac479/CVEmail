@@ -1,0 +1,6 @@
+@CVEmailAPI_HostAddress = http://localhost:5126
+
+POST {{CVEmailAPI_HostAddress}}/CVEmail/
+Accept: application/json
+
+###
